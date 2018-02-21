@@ -1,0 +1,159 @@
+body{
+	background-color: #E6E6E6;
+}
+.block1{
+	background-color: white;
+	box-shadow: 1px 1px 10px;
+	height: 35px;
+}
+.img1-b1-g{
+	width: 70px;
+	height: 35px;
+}
+.btnconnexion{
+	height: 35px;
+	width: 105px;
+	float: right;
+    border: 0px solid #ccc;
+    background-color: #C50606;
+    font-family: Raleway;
+    color: white;
+}
+.block2{
+	padding-bottom: 50px;
+}
+.menu{
+	background-color: white;
+}
+.img1-b2{
+	margin-bottom: 25px;
+	margin-top: 25px;
+	width: 400px;
+	height: 200px;
+}
+a{
+	font-family: Raleway;
+	color: black;
+	font-style: none;
+	font-size: 25px;
+}
+.block3{
+}
+.img-caroussel{
+	width:100%;
+}
+.img-block4{
+	width: 100%;
+}
+.block4{
+padding-bottom: 50px;
+padding-top: 50px;
+}
+.block5{
+	height: 50px;
+	background-color: #424242;
+	color: white;
+	font-family: Raleway;
+	font-style: none;
+	font-size: 11px;
+}
+.block6{
+}
+.apropos{
+	font-family: Raleway;
+	font-style: none;	
+}
+.ptitre{
+font-size: 30px;
+margin-bottom: 30px;
+}
+.papropos{
+font-size: 21px;
+margin-bottom: 30px;
+}
+.block7-2{
+	margin-bottom: 50px;
+}
+.map{
+	background-color: #585858; 
+}
+.img-map{
+	width: 100%;
+}
+/* LOGIN PAGE *********************************************************************************************/
+.login01{
+	display: flex;
+	background-color: white;
+	height: 75vh;
+	width: 75vw;
+	margin-left: 12.5vw;
+	margin-top: 12.5vh;
+	border-radius: 10px;
+}
+.loginD{
+	background-color: black;
+	height:75vh;
+	width: 50vw;
+	border-radius: 00px 10px 10px 0px;
+
+}
+.loginG{
+	background-color: red;
+	height:75vh;
+	width: 50vw;
+	border-radius: 10px 0px 0px 10px;
+}
+
+
+
+
+
+
+
+/* END LOGIN PAGE *********************************************************************************************/
+.blockcontact{
+	font-family: Raleway; 
+}
+/* START PRODUCT PAGE *********************************************************************************************/
+.banniereproduit{
+	background-color: #C50606;
+	box-shadow: 0 4px 10px -2px black;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	margin-bottom: 20px;
+	margin-top: 20px;
+	color: white;
+	font-family: Raleway;
+}
+.blockproduits{
+	border-radius: 10px 10px 10px 10px;
+	border: 1px solid grey;
+	background-color: white;
+	font-family: Raleway;
+	font-size: 20px;
+	text-align: center;
+}
+.nomproduit{
+	margin-top: 10px;
+} 
+
+
+
+
+
+
+/* END PRODUCT PAGE *********************************************************************************************/
+/* START TEST PAGE *********************************************************************************************/
+.test01{
+	display: block;
+	box-sizing: border-box;
+	float: left;
+	padding: 20em;
+	width: 100vw;
+	height: 100vh;
+	background-color: blue;
+}
+
+
+
+/* END TEST PAGE *********************************************************************************************/

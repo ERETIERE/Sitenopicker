@@ -1,0 +1,42 @@
+@media screen and (max-width: 768px) {
+.block1{
+	height: 50px;
+}
+.img1-b1-g{
+	width: 100px;
+	height: 50px;
+}
+.btnconnexion{
+	height: 50px;
+	width: 80px;
+}
+  .img3-b1-d{
+	display: none;
+  }
+.img1-b2{
+	margin-bottom: 15px;
+	margin-top: 15px;
+	width: 200px;
+	height: 100px;
+}
+a{
+	font-size: 15px;
+}
+.ptitre{
+font-size: 15px;
+margin-bottom: 15px;
+}
+.papropos{
+font-size: 12px;
+margin-bottom: 15px;
+}
+hr{
+	display: none;
+}
+.block5{
+	height: 80px;
+}
+/* LOGIN PAGE *********************************************************************************************/
+
+/* END LOGIN PAGE *********************************************************************************************/
+}
